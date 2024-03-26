@@ -2,7 +2,6 @@ name: Update Gitu
 on:
   schedule:
     - cron: "0 10 * * *"
-  push:
 jobs:
   update:
     runs-on: ubuntu-latest

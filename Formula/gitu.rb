@@ -1,5 +1,5 @@
 class Gitu < Formula
-  version "0.19.1"
+  version "0.19.2"
   desc "A TUI Git client inspired by Magit"
   homepage "https://github.com/altsem/gitu"
   url "https://github.com/altsem/gitu/releases/download/v#{version}/gitu-v#{version}-x86_64-apple-darwin.tar.gz"
